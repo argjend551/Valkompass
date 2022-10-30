@@ -1,0 +1,390 @@
+[
+  {
+    "question": "Anonyma vittnen ska tillåtas i domstolar.",
+    "answer": {
+      "V": -2,
+      "S": -2,
+      "MP": -2,
+      "C": -2,
+      "L": -1,
+      "KD": 2,
+      "M": 2,
+      "SD": 2
+    }
+  },
+  {
+    "question": "Kvinnans aborträtt ska skrivas in i grundlagen.",
+    "answer": {
+      "V": 2,
+      "S": 1,
+      "MP": 2,
+      "C": 2,
+      "L": 2,
+      "KD": 2,
+      "M": 2
+    }
+  },
+  {
+    "question": "Företagens skatter ska sänkas.",
+    "answer": {
+      "V": -2,
+      "S": -2,
+      "MP": 1,
+      "C": 2,
+      "L": 2,
+      "KD": 2,
+      "M": 2,
+      "SD": 2
+    }
+  },
+  {
+    "question": "Skogsägare ska få stärkt äganderätt. ",
+    "answer": {
+      "V": -2,
+      "S": 1,
+      "MP": -1,
+      "C": 2,
+      "L": 2,
+      "KD": 2,
+      "M": 2,
+      "SD": 2
+    }
+  },
+  {
+    "question": "En särskild miljonärsskatt ska införas.",
+    "answer": {
+      "V": 2,
+      "S": 2,
+      "MP": 2,
+      "C": -2,
+      "L": -2,
+      "KD": -2,
+      "M": -2,
+      "SD": -2
+    }
+  },
+  {
+    "question": "En ny folkräkning ska genomföras. ",
+    "answer": {
+      "V": -1,
+      "S": -1,
+      "MP": -1,
+      "C": -1,
+      "L": 2,
+      "KD": 2,
+      "M": 2,
+      "SD": 2
+    }
+  },
+  {
+    "question": "Företagens regelbörda ska minska.",
+    "answer": {
+      "V": -1,
+      "S": 1,
+      "MP": 2,
+      "C": 2,
+      "L": 2,
+      "KD": 2,
+      "M": 2
+    }
+  },
+  {
+    "question": "Biståndet ska sänkas.",
+    "answer": {
+      "V": -2,
+      "S": -2,
+      "MP": -2,
+      "C": -2,
+      "L": -2,
+      "KD": -2,
+      "M": 2,
+      "SD": 2
+    }
+  },
+  {
+    "question": "Tandvård ska subventioneras som sjukvård.",
+    "answer": {
+      "V": 2,
+      "S": 2,
+      "MP": 2,
+      "C": 1,
+      "L": 1,
+      "KD": 1,
+      "M": -1,
+      "SD": 1
+    }
+  },
+  {
+    "question": "Fri hyressättning ska införas. ",
+    "answer": {
+      "V": -2,
+      "S": -2,
+      "MP": -2,
+      "C": 1,
+      "L": 1,
+      "KD": 1,
+      "M": 1,
+      "SD": -2
+    }
+  },
+  {
+    "question": "Mångkulturen berikar Sverige.",
+    "answer": {
+      "V": 2,
+      "S": 1,
+      "MP": 2,
+      "C": 2,
+      "L": 1,
+      "KD": 1,
+      "M": -1,
+      "SD": -2
+    }
+  },
+  {
+    "question": "Färre företag ska vara momspliktiga.",
+    "answer": {
+      "V": -2,
+      "S": -2,
+      "MP": 2,
+      "C": 2,
+      "L": 2,
+      "KD": 2,
+      "M": 1,
+      "SD": -1
+    }
+  },
+  {
+    "question": "Ränteavdraget för bostadslån ska trappas ned.",
+    "answer": {
+      "V": 2,
+      "S": -2,
+      "MP": 1,
+      "C": -1,
+      "L": -2,
+      "KD": 1,
+      "M": -1,
+      "SD": -2
+    }
+  },
+  {
+    "question": "Kärnkraften ska byggas ut.",
+    "answer": {
+      "V": -2,
+      "S": 1,
+      "MP": -2,
+      "C": -1,
+      "L": 2,
+      "KD": 2,
+      "M": 2,
+      "SD": 2
+    }
+  },
+  {
+    "question": "Föräldraförsäkringen ska delas lika mellan föräldrarna.",
+    "answer": {
+      "V": 2,
+      "S": 2,
+      "MP": 1,
+      "C": -1,
+      "L": -1,
+      "KD": -2,
+      "M": -1,
+      "SD": -1
+    }
+  },
+  {
+    "question": "Sverige ska bli medlem av Nato.",
+    "answer": {
+      "V": -2,
+      "S": 2,
+      "MP": -2,
+      "C": 2,
+      "L": 2,
+      "KD": 2,
+      "M": 2,
+      "SD": 2
+    }
+  },
+  {
+    "question": "En moderniserad arbetsrätt ska göra det lättare att säga upp viss personal.",
+    "answer": {
+      "V": -2,
+      "S": -2,
+      "MP": -2,
+      "C": 2,
+      "L": 2,
+      "KD": 2,
+      "M": 2,
+      "SD": -1
+    }
+  },
+  {
+    "question": "Människor ska inte behöva sänka sin levnadsstandard för klimatets skull.",
+    "answer": {
+      "V": -1,
+      "S": 2,
+      "MP": 1,
+      "C": 1,
+      "L": 1,
+      "KD": 1,
+      "M": 2,
+      "SD": 2
+    }
+  },
+  {
+    "question": "Gårdsförsäljning av vin och öl ska tillåtas.",
+    "answer": {
+      "V": -2,
+      "S": -1,
+      "MP": -1,
+      "C": 2,
+      "L": 1,
+      "KD": 1,
+      "M": 2,
+      "SD": 2
+    }
+  },
+  {
+    "question": "Vinst i skolan ska förbjudas.",
+    "answer": {
+      "V": 2,
+      "S": 2,
+      "MP": 2,
+      "C": -1,
+      "L": -1,
+      "KD": -1,
+      "M": -1,
+      "SD": -1
+    }
+  },
+  {
+    "question": "Tonåringar ska kunna dömas till fängelse. ",
+    "answer": {
+      "V": -1,
+      "S": 2,
+      "MP": 1,
+      "C": 1,
+      "L": 2,
+      "KD": 2,
+      "M": 2,
+      "SD": 2
+    }
+  },
+  {
+    "question": "Public service ska bantas.",
+    "answer": {
+      "V": -2,
+      "S": -2,
+      "MP": -2,
+      "C": -2,
+      "L": -2,
+      "KD": 2,
+      "M": 1,
+      "SD": 2
+    }
+  },
+  {
+    "question": "Polisen ska kunna införa visitationszoner för att söka efter vapen.",
+    "answer": {
+      "V": -2,
+      "S": -2,
+      "MP": -2,
+      "C": -2,
+      "L": -2,
+      "KD": 2,
+      "M": 2,
+      "SD": 2
+    }
+  },
+  {
+    "question": "Religiösa friskolor ska förbjudas.",
+    "answer": {
+      "V": 2,
+      "S": 2,
+      "MP": 2,
+      "C": -1,
+      "L": 2,
+      "KD": -2,
+      "M": 1,
+      "SD": 1
+    }
+  },
+  {
+    "question": "Kostnaderna för att anställa ska minska.",
+    "answer": {
+      "V": -2,
+      "S": -1,
+      "MP": 2,
+      "C": 2,
+      "L": 2,
+      "KD": 2,
+      "M": 2,
+      "SD": 1
+    }
+  },
+  {
+    "question": "Statliga museer ska ha gratis inträde.",
+    "answer": {
+      "V": 2,
+      "S": 2,
+      "MP": 2,
+      "C": -1,
+      "L": 1,
+      "KD": -2,
+      "M": -2,
+      "SD": 1
+    }
+  },
+  {
+    "question": "Reduktionsplikten ska sänkas.",
+    "answer": {
+      "V": 2,
+      "S": -1,
+      "MP": -2,
+      "C": -2,
+      "L": 1,
+      "KD": 2,
+      "M": 2,
+      "SD": 2
+    }
+  },
+  {
+    "question": "Språkkrav ska införas för den som söker permanent uppehållstillstånd i Sverige.",
+    "answer": {
+      "V": -2,
+      "S": 2,
+      "MP": -2,
+      "C": -2,
+      "L": 1,
+      "KD": 2,
+      "M": 2,
+      "SD": 2
+    }
+  },
+  {
+    "question": "Fler jobbskatteavdrag ska införas.",
+    "answer": {
+      "V": -2,
+      "S": -2,
+      "MP": -2,
+      "C": 2,
+      "L": 2,
+      "KD": 2,
+      "M": 2,
+      "SD": 1
+    }
+  },
+  {
+    "question": "Staten ska ta över ansvaret för sjukvården från regionerna.",
+    "answer": {
+      "V": -2,
+      "S": -1,
+      "MP": -2,
+      "C": -1,
+      "L": 1,
+      "KD": 2,
+      "M": -1,
+      "SD": 1
+    }
+  }
+]

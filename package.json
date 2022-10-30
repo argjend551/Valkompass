@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "promptly": "^3.2.0"
+  }
+}
